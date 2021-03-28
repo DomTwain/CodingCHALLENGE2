@@ -1,0 +1,52 @@
+.background{
+  height: auto;
+  width: auto;
+}
+
+.conteiner{
+  height: 500px;
+  width: 600px;
+  text-align: center;
+  background-color:rgba(0, 0, 0, 0.5);
+  margin: auto;
+
+
+}
+.green{
+position: relative;
+height: 40px;
+margin: 20px;
+background-color: limegreen;
+}
+.square{
+  height: 20px;
+  width: 50px;
+  margin: 5px;
+  position: relative;
+  left: 50px;
+}
+.square.orange {width: 40%;background-color: 	#FF7F50;} /* orange */
+
+.square.lime {width: 60%; background-color: #7CFC00;} /* lime */
+
+.square.red {width: 20%; background-color: #f44336;} /* Red */
+
+.logo{
+  width: 200px;
+}
+
+.logo-text{
+  font-size: 25px;
+  color: limegreen;
+}
+
+.read{
+  color: white;
+}
+.subject{
+
+}
+.under-text{
+
+
+}
